@@ -1,2 +1,6 @@
 File checker.sh noMecTuTb B cron e}|{eMuHyTHo
 File pusher.sh: HacTPouTb ssh github u noMecTuTb B cron Pa3 B cyTku
+
+
+* * * * * /bin/sh /root/checker.sh > /dev/pts/0
+00 23 * * * /bin/sh /root/pusher.sh > /dev/pts/0
