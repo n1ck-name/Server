@@ -23,7 +23,7 @@ import os
 # Объявление переменных
 
 # Время между запросами
-timerequest = 600
+timerequest = 599
 DataFileCsv = 'data/checkpoints.csv'
 
 
